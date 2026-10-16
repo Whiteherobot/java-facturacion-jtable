@@ -56,6 +56,9 @@ productos, y las búsquedas devolvían un objeto vacío cuando no encontraban
 nada. En 2026 se rehízo como un sistema de facturación completo, manteniendo
 la arquitectura de capas y la opción de consumidor final de la entrega.
 
+La segunda parte del ejercicio, con modificar y eliminar registros, está en
+[java-crud-facturas](https://github.com/Whiteherobot/java-crud-facturas).
+
 ## Autores
 
 - Michael Lata ([@Whiteherobot](https://github.com/Whiteherobot))
